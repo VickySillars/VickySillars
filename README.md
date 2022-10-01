@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </div>
+
 - 👋 Hi, I’m @VickySillars
 - 👀 I’m interested in ... photography, mechanical keyboards, and iOS development
 - 🌱 I’m currently learning ... cybersecurity, artificial intelligence and software engineering
